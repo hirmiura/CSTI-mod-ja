@@ -28,6 +28,13 @@ git diff HEAD:original/Jp.csv HEAD:updated/Jp.csv
 次のURLで見られれば良かったのですが、この機能はないようです。  
 https://github.com/hirmiura/CSTI-mod-ja/compare/HEAD:original/Jp.csv...HEAD:updated/Jp.csv
 
+### 主な変更点
+
+* Snake grass → [クリナカンサス](https://en.wikipedia.org/wiki/Clinacanthus_nutans)  
+    「クリナンカスヌタンス」や「マムシグサ」と表記揺れがあった
+* Spider lilly → [ササガニユリ](https://en.wikipedia.org/wiki/Hymenocallis_speciosa)  
+    彼岸花のイメージと明らかに違った
+
 ## ライセンス
 
 [MIT License] としています。  
