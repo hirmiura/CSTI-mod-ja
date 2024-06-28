@@ -4,7 +4,7 @@
 
 ## 最新版について
 
-以下よりダウンロードしてください。
+以下よりダウンロードしてください。  
 https://raw.githubusercontent.com/hirmiura/CSTI-mod-ja/main/updated/Jp.csv
 
 ## インストール
@@ -25,7 +25,7 @@ Steamであれば、ファイルを消してから「ゲームファイルの整
 git diff HEAD:original/Jp.csv HEAD:updated/Jp.csv
 ```
 
-次のURLで見られれば良かったのですが、この機能はないようです。
+次のURLで見られれば良かったのですが、この機能はないようです。  
 https://github.com/hirmiura/CSTI-mod-ja/compare/HEAD:original/Jp.csv...HEAD:updated/Jp.csv
 
 ## ライセンス
