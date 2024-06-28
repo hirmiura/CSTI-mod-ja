@@ -13966,7 +13966,7 @@ VenomKrait_Statuses[0].Description,Your legs feel funny.,足がしびれてい�
 VenomKrait_Statuses[1].GameName,Sea Krait Venom,海蛇の毒,
 VenomKrait_Statuses[1].Description,Your legs aren't working well.,足がしびれていて、あまり動けない,
 VenomKrait_Statuses[2].GameName,Sea Krait Venom,海蛇の毒,
-VenomKrait_Statuses[2].Description,Your legs barely work and your vision is getting blurry.,足が動けなくなっていて、目が見えなくなっている。,
+VenomKrait_Statuses[2].Description,Your legs barely work and your vision is getting blurry.,足が動かなくなっていて、目が見えなくなっている。,
 VenomKrait_Statuses[3].GameName,Sea Krait Venom,海蛇の毒,
 VenomKrait_Statuses[3].Description,"It's hard to see, your vision is blurry!",目が見えなくなっている・・・すべてがブレている！,
 VenomKrait_Statuses[4].GameName,Sea Krait Venom,海蛇の毒,
