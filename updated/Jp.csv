@@ -220,9 +220,7 @@ MIDJOURNEY,Portraits created using MidJourney,キャラクターアート：MidJ
 THE_FIRST_DAYS,The First Days,始まりの日,
 SAVE_CHARACTER,Save Character,キャラクターをセーブする,
 SAFE_MODE,Safety Mode,セーフモード,
-SAVEFILE_WRITING_ERROR,"It seems there was an error while attempting to write the save file for the game. \n\nUnfortunately this means your current game can't be saved. If you have opened your save file in another program this could be the cause for the error, close that program and try saving again.\n\nIf this is not the case and this message keeps appearing, please notify us in the Steam forums and send us your Player.log file at winterspringgames@gmail.com. Our apologies for the inconvenience.","セーブした時にエラーが発生しました。\n\n残念ながら、今のゲームはセーブできていません。
-他のソフトでこのセーブのファイルを開けたことが原因かも知れません。その場合は、
-そのソフトを閉じて、もう一度セーブしてみて下さい。\n\n問題が直らない場合、steamフォーラムで報告をして、playerlogのファイルをwinterspringgames@gmailcomに送って下さい。ご迷惑をおかけして、申し訳ございません。",
+SAVEFILE_WRITING_ERROR,"It seems there was an error while attempting to write the save file for the game. \n\nUnfortunately this means your current game can't be saved. If you have opened your save file in another program this could be the cause for the error, close that program and try saving again.\n\nIf this is not the case and this message keeps appearing, please notify us in the Steam forums and send us your Player.log file at winterspringgames@gmail.com. Our apologies for the inconvenience.","セーブ時にエラーが発生しました。\n\n残念ながら、今ゲームはセーブできていません。他のソフトでこのセーブのファイルを開けたことが原因かも知れません。その場合は、そのソフトを閉じて、もう一度セーブしてみて下さい。\n\n問題が直らない場合、steamフォーラムで報告をし、playerlogファイルをwinterspringgames@gmail.comに送って下さい。ご迷惑をおかけして、申し訳ございません。",
 EQUIPPED_PERKS,Equipped Perks,装備済みパーク,Check Game
 OUR_TRANSLATION_VOLUNTEERS,Our translation volunteers:,翻訳ボランティアの皆さん：,
 CREATE_CHARACTER_DESC,Customize the experience by creating your own character,自分だけのキャラクターを作り、経験をカスタマイズする,
