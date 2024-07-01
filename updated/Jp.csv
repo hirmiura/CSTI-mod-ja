@@ -1783,7 +1783,7 @@ BeeSkep_DismantleActions[0].ActionDescription,This could be dangerous!,これは
 BeeSkep_DismantleActions[1].ActionName,Harvest,収穫する,
 BeeSkep_DismantleActions[1].ActionDescription,It should be safer now.,もう、安全になったはずだ。,
 BeeSkepEmpty_CardName,Bee Skep,蜂の巣箱,
-BeeSkepEmpty_CardDescription,"An empty artificial beehive.  It needs a queen, some drones and a honeycomb to work.",空の人工蜂の巣。女王蜂、雄蜂、蜜蜂の巣が必要。,
+BeeSkepEmpty_CardDescription,"An empty artificial beehive.  It needs a queen, some drones and a honeycomb to work.",空の蜂の巣箱。女王蜂、雄蜂、蜜蜂の巣が必要。,
 BeeSkepEmpty_SpoilageTime.CardStatName,Torpor,昏睡状態,
 BeeSkepEmpty_UsageDurability.CardStatName,Population,蜂数,
 BeeSkepEmpty_UsageDurability.OnFull.ActionDescription,The Skep is swarming!,蜂が多い！,
