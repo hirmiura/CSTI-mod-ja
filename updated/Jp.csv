@@ -53,7 +53,7 @@ DISMANTLE_DESC,Collect all items and revert to previous building stage.,全て�
 DISMANTLE_DESC_FIRST_STEP,Collect all items and destroy building.,全てのアイテムを集めて、建物を破壊する。,
 DO_STACK_ACTION,Do x{0},x{0}をする。,
 DURATION,Duration,時間,
-EMPTY,Empty,空っぽ,
+EMPTY,Empty,空にする,
 NO_CHARACTER_BIO,You don't remember anything before the island...,島に来る前の記憶がない…,
 EQUIP_CARD,Equip {0},{0}を装備する,
 EQUIPMENT,Equipment,装備,
