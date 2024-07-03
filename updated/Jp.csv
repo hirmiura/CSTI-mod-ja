@@ -2296,7 +2296,7 @@ Bp_LeafSkirt_BlueprintFinishedLog.LogText,I made a leaf skirt.,葉っぱのス�
 Bp_LeatherBackpack_CardName,Leather Backpack,レザーリュック,
 Bp_LeatherBackpack_CardDescription,I can store things inside.,中にものを入れられる。,
 Bp_LeatherBackpack_UnlockConditionsDesc,Satchel Needed,サッチェルが必要,
-Bp_LeatherBackpack_BlueprintFinishedLog.LogText,I made myself a leather backpack.,レザーブリュックを作った。,
+Bp_LeatherBackpack_BlueprintFinishedLog.LogText,I made myself a leather backpack.,レザーリュックを作った。,
 Bp_LeatherBracers_CardName,Leather Bracers,レザーブレイサー,
 Bp_LeatherBracers_CardDescription,Perfect for protecting my arms. ,腕を守るには良さそう。,
 Bp_LeatherBracers_UnlockConditionsDesc,Cured Skin Needed,硬化させた皮,
