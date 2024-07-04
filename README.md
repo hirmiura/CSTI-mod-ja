@@ -34,6 +34,11 @@ https://github.com/hirmiura/CSTI-mod-ja/compare/HEAD:original/Jp.csv...HEAD:upda
     「クリナンカスヌタンス」や「マムシグサ」と表記揺れがあった
 * Spider lilly → [ササガニユリ](https://en.wikipedia.org/wiki/Hymenocallis_speciosa)  
     彼岸花のイメージと明らかに違った
+* China rose → ハイビスカス  
+    コウシンバラとあったが、アイコンが明らかにハイビスカスだった
+* 昼寝 → 仮眠
+* バッター → バター
+* その他多数
 
 ## ライセンス
 
