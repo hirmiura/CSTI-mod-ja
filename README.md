@@ -30,15 +30,26 @@ https://github.com/hirmiura/CSTI-mod-ja/compare/HEAD:original/Jp.csv...HEAD:upda
 
 ### 主な変更点
 
-* Snake grass → [クリナカンサス](https://en.wikipedia.org/wiki/Clinacanthus_nutans)  
+* 地名
+  * Bay → 入江 で統一
+  * Bearch → ビーチ で統一
+
+* 貯水
+  * Water Reservoir → 貯水槽 で統一
+  * Cistern → 貯水池 で統一
+
+* 植物
+  * Snake grass → [クリナカンサス](https://en.wikipedia.org/wiki/Clinacanthus_nutans)  
     「クリナンカスヌタンス」や「マムシグサ」と表記揺れがあった
-* Spider lilly → [ササガニユリ](https://en.wikipedia.org/wiki/Hymenocallis_speciosa)  
+  * Spider lilly → [ササガニユリ](https://en.wikipedia.org/wiki/Hymenocallis_speciosa)  
     彼岸花のイメージと明らかに違った
-* China rose → ハイビスカス  
+  * China rose → ハイビスカス  
     コウシンバラとあったが、アイコンが明らかにハイビスカスだった
-* 昼寝 → 仮眠
-* バッター → バター
-* その他多数
+
+* その他
+  * 昼寝 → 仮眠
+  * バッター → バター
+  * 他多数
 
 ## ライセンス
 
